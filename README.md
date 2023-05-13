@@ -15,3 +15,4 @@ pnpm install
 node index.js
 ```
 
+Open `http://localhost:7563`.
